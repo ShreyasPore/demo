@@ -53,7 +53,7 @@ def message_display(text):
     
 
 def crash():
-    message_display('You Crashed')
+    message_display('Game Over')
     
 def game_loop():
     x = (display_width * 0.45)
